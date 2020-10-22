@@ -2,7 +2,7 @@
 
 ## Purpose and objective
 
-Skills Workflow, as an organization, must make sure we hire resources that are not only knowledgeable but resourseful as well.
+Skills Workflow, as an organization, must make sure we hire resources that are not only knowledgeable but resourceful as well.
 Here we propose a challenge to candidates for positions that involve the advanced use of Angular.
 
 The main goal of this challenge is to assess the candidate's knowledge of the Angular framework, it's main concepts, idioms, project structure, etc. as well as to 
