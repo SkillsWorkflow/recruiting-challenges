@@ -31,10 +31,10 @@ It is up to the candidate to design and implement this feature as well as design
 ### Output
 The result of this challenge should be:
 1. Project for the Javascript module/library
-2. An Application that uses the new module/library and serves as proof of concept 
+2. An Application (can be the same project from step 1) that uses the new module/library and serves as proof of concept. 
 
 **Important**
 
-> Both projects should be made available on a github repository so we can evaluate.
+> All Projects should be made available on a github repository so we can evaluate.
 >
 > Don't forget to include eventual design decisions or assumptions on the repo README file.
