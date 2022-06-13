@@ -11,7 +11,7 @@ assess how the candidate can think out of the box and use Angular in unusual or 
 ## Scope
 
 * To address this challenge candidates must use Angular version 9 or later (latest version is preferred)
-* Any duobts or assumptions regarding the challenge must be documented to be discussed later
+* Any doubts or assumptions regarding the challenge must be documented to be discussed later
 * Assume that you are an Angular developer producing a reusable module / library for other developers to use on their own applications
 * Unit tests are not mandatory, but are highly desirable
 
