@@ -24,8 +24,8 @@ Starting point should be the application in the url:
 https://playground-dev-we.skillsworkflow.com/login
 
 For login purposes use the following credentials:
-User: QA Tester
-Password: 12345
+* User: QA Tester
+* Password: 12345
 
 Test cases should verify these behaviours:
 
